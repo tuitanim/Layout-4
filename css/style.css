@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  height: 50px;
+  background: cadetblue;
+}
+
+nav {
+  width: 100%;
+  height: 80px;
+  background: darkorchid;
+}
+
+.banner {
+  width: 100%;
+  height: 500px;
+  background: darkred;
+}
+
+.content {
+  overflow: hidden;
+}
+
+.left {
+  width: 33.33%;
+  height: 300px;
+  background: darkslateblue;
+  float: left;
+}
+
+.middle {
+  width: 33.33%;
+  height: 300px;
+  background: darkturquoise;
+  float: left;
+}
+
+.right {
+  width: 33.33%;
+  height: 300px;
+  background: deeppink;
+  float: right;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  background: currentColor;
+}
